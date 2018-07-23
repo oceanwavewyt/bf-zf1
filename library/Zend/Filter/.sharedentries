@@ -1,0 +1,31 @@
+/Alnum.php/201001 5130510/4201/
+/Alpha.php/201001 5130510/4177/
+/BaseName.php/201001 5130510/1360/
+/Boolean.php/20100115101800/10065/
+/Callback.php/201001 5130510/4084/
+D/Compress/
+/Compress.php/201001 5130510/5553/
+/Decompress.php/201001 5130510/1483/
+/Decrypt.php/201001 5130510/1453/
+/Digits.php/201001 5130510/2290/
+/Dir.php/201001 5130510/1348/
+D/Encrypt/
+/Encrypt.php/201001 5130510/3853/
+/Exception.php/201001 5130510/1095/
+D/File/
+/HtmlEntities.php/20100215085654/4891/
+/Inflector.php/201003 7065808/14704/
+/Input.php/20100619203004/36526/
+/Int.php/201001 5130510/1345/
+/Interface.php/201001 5130510/1234/
+/LocalizedToNormalized.php/201001 5130510/3116/
+/NormalizedToLocalized.php/201001 5130510/3036/
+/Null.php/201001 5130510/4928/
+/PregReplace.php/20100218081040/4486/
+/RealPath.php/201001 5130510/3719/
+/StringToLower.php/201002 4064442/3365/
+/StringToUpper.php/201002 4064442/3344/
+/StringTrim.php/201001 5130510/3419/
+/StripNewlines.php/201001 5130510/1411/
+/StripTags.php/20100514101250/11225/
+D/Word/

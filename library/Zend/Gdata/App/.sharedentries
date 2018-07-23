@@ -1,0 +1,21 @@
+/AuthException.php/201001 5130510/1265/
+/BadMethodCallException.php/201001 5130510/1287/
+/Base.php/201001 5130510/19350/
+/BaseMediaSource.php/201001 5130510/5514/
+/CaptchaRequiredException.php/201001 5130510/2748/
+/Entry.php/201001 5130510/11521/
+/Exception.php/201001 5130510/1232/
+D/Extension/
+/Extension.php/201001 5130510/1184/
+/Feed.php/201001 5130510/9770/
+/FeedEntryParent.php/201001 5130510/21260/
+/FeedSourceParent.php/201001 5130510/7472/
+/HttpException.php/201001 5130510/3073/
+/IOException.php/201001 5130510/1273/
+/InvalidArgumentException.php/201001 5130510/1283/
+/LoggingHttpClientAdapterSocket.php/201001 5130510/3416/
+/MediaEntry.php/201001 5130510/3605/
+/MediaFileSource.php/201001 5130510/4000/
+/MediaSource.php/201001 5130510/2253/
+/Util.php/201001 5130510/4094/
+/VersionException.php/201001 5130510/1283/

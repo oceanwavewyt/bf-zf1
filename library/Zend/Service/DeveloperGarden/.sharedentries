@@ -1,0 +1,19 @@
+D/BaseUserService/
+/BaseUserService.php/201001 9060018/14176/
+D/Client/
+D/ConferenceCall/
+/ConferenceCall.php/201001 9060018/34279/
+/Credential.php/201001 9060018/5148/
+/Exception.php/201001 9060018/1221/
+D/IpLocation/
+/IpLocation.php/201001 9060018/4067/
+D/LocalSearch/
+/LocalSearch.php/201001 9060018/3381/
+D/Request/
+D/Response/
+D/SecurityTokenServer/
+/SecurityTokenServer.php/201001 9060018/3892/
+/SendSms.php/201001 9060018/5016/
+/SmsValidation.php/201001 9060018/6598/
+/VoiceCall.php/201001 9060018/7712/
+D/Wsdl/

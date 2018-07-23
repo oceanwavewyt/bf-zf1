@@ -1,0 +1,16 @@
+D/Analysis/
+D/Document/
+/Document.php/201001 5130510/3397/
+/Exception.php/201001 5130510/1135/
+/FSM.php/201001 5130510/13857/
+/FSMAction.php/201001 5130510/1596/
+/Field.php/201001 5130510/6063/
+D/Index/
+/Interface.php/201001 5130510/12111/
+/LockManager.php/201001 5130510/8769/
+/MultiSearcher.php/201001 5130510/27948/
+/PriorityQueue.php/201001 5130510/4390/
+/Proxy.php/201001 5130510/16220/
+D/Search/
+D/Storage/
+/TermStreamsPriorityQueue.php/201001 5130510/5018/

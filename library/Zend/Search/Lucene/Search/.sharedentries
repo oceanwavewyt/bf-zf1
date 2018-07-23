@@ -1,0 +1,16 @@
+/BooleanExpressionRecognizer.php/201001 5130510/9327/
+D/Highlighter/
+D/Query/
+/Query.php/201001 5130510/7012/
+D/QueryEntry/
+/QueryEntry.php/201001 5130510/1718/
+/QueryHit.php/201001 5130510/2770/
+/QueryLexer.php/201001 5130510/25537/
+/QueryParser.php/20100324055646/26628/
+/QueryParserContext.php/201001 5130510/13132/
+/QueryParserException.php/201001 5130510/1309/
+/QueryToken.php/201001 5130510/7474/
+D/Similarity/
+/Similarity.php/201001 5130510/24783/
+D/Weight/
+/Weight.php/201001 5130510/2413/
